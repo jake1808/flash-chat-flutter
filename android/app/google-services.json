@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060174513369",
+    "project_id": "flash-chat-965fb",
+    "storage_bucket": "flash-chat-965fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060174513369:android:491c087ff27b41e8512ac8",
+        "android_client_info": {
+          "package_name": "co.jakeCarbine.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060174513369-f82l3vhvkchdp30clo9116q770oaclla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0-eOqFXKIz29G5XU5ZaMv_1iDrSBZgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060174513369-f82l3vhvkchdp30clo9116q770oaclla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
